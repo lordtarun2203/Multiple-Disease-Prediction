@@ -1,4 +1,6 @@
 import sqlite3
+print("SQLite version:", sqlite3.sqlite_version)  # SQLite version
+
 import os
 
 # Create a connection to the database file
