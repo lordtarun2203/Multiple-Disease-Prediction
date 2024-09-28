@@ -6,3 +6,6 @@ seaborn==0.13.1
 xgboost==2.1.1
 streamlit==1.36.0
 pickle-mixin==1.0.2  
+streamlit-option-menu==0.3.13
+streamlit
+sqlite3
