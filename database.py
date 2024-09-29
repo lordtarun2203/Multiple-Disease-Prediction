@@ -2,7 +2,7 @@ import psycopg2
 import os
 
 # PostgreSQL connection parameters
-DATABASE_URL = os.getenv("DATABASE_URL", "postgres://postgres:Gc6EeE3AFB1g215651gFbC1Ae6gg3cB4@autorack.proxy.rlwy.net:13643/railway")
+DATABASE_URL = os.getenv("DATABASE_URL")
 
 
 # Create a connection to the PostgreSQL database
