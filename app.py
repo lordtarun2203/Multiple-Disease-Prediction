@@ -9,7 +9,7 @@ import pandas as pd
 from prediction import diabetes_model, heart_disease_model, parkinsons_model, df_severity, GBC_model, hyper_tuned_svc, model_SVM_init
 from streamlit_option_menu import option_menu
 from database import add_user, login_user, check_user_exists, update_diagnosis, get_user_diagnoses
-import hashlib  # For password hashing
+import hashlib
 
 
 # Load the credentials from the JSON file

@@ -7,3 +7,4 @@ xgboost==2.1.1
 pickle-mixin==1.0.2  
 streamlit-option-menu==0.3.13
 streamlit==1.37.1
+#pg_ctl -D "C:\Users\ataru\anaconda3\envs\MachineLearning\Library\data" start
